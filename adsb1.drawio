@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-12-17T22:14:47.451Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DtunvaSs5UoYGObfmrsP" version="22.1.11" type="google">
+  <diagram name="Strona-1" id="nAhsJVx4J0jTVTJYmnfn">
+    <mxGraphModel dx="1594" dy="1165" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="thwbESjxNS39QpehjG5h-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-165" y="86.99920169472969" width="130.88963307010215" height="225.5507983052703" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-5" value="" style="group" vertex="1" connectable="0" parent="thwbESjxNS39QpehjG5h-8">
+          <mxGeometry y="78.5507983052703" width="128" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/612/aiga_air_transportation_bg-128.png" vertex="1" parent="thwbESjxNS39QpehjG5h-5">
+          <mxGeometry width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-4" value="Lotnisko&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="thwbESjxNS39QpehjG5h-5">
+          <mxGeometry x="32.5" y="121" width="63" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-7" value="" style="shape=mxgraph.cisco.wireless.satellite_dish;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rotation=15;" vertex="1" parent="thwbESjxNS39QpehjG5h-8">
+          <mxGeometry x="24" y="11.550798305270305" width="99" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="131" y="162" width="129" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-11" value="" style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png" vertex="1" parent="thwbESjxNS39QpehjG5h-18">
+          <mxGeometry y="43" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/Futurosoft%20Icons%200.5.2/128x128/devices/usbpendrive_mount.png" vertex="1" parent="thwbESjxNS39QpehjG5h-18">
+          <mxGeometry x="59" y="33" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.radio.aerial_-_antenna_1;" vertex="1" parent="thwbESjxNS39QpehjG5h-18">
+          <mxGeometry x="74.5" width="39" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-17" value="Amator z SDR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="thwbESjxNS39QpehjG5h-18">
+          <mxGeometry x="21" y="115" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="157.84936490538905" y="-134" width="132.65063509461095" height="126.68653347947321" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-2" value="" style="shape=mxgraph.signs.transportation.helicopter;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="thwbESjxNS39QpehjG5h-32">
+          <mxGeometry x="18.150635094610948" y="33.5" width="100" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-28" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=120;" vertex="1" parent="thwbESjxNS39QpehjG5h-32">
+          <mxGeometry x="11.150635094610948" y="71" width="42" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-30" value="Statek powietrzny #2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="thwbESjxNS39QpehjG5h-32">
+          <mxGeometry x="3.650635094610948" width="129" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-195" y="-146" width="129" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-10" value="" style="shape=mxgraph.signs.transportation.airplane_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rotation=-90;" vertex="1" parent="thwbESjxNS39QpehjG5h-33">
+          <mxGeometry x="12" y="28" width="97" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-27" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection;rotation=90;" vertex="1" parent="thwbESjxNS39QpehjG5h-33">
+          <mxGeometry x="29" y="101" width="42" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="thwbESjxNS39QpehjG5h-29" value="Statek powietrzny #1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="thwbESjxNS39QpehjG5h-33">
+          <mxGeometry width="129" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
