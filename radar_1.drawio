@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-12-28T00:00:28.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IfBRz81oha63eieZDSRU" version="22.1.15" type="github">
+  <diagram name="Strona-1" id="s4JNBpu8SVKPvf4Eysfm">
+    <mxGraphModel dx="1194" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-190/1000/aeroplane_aircraft_plane_fighter_military_military_airplane_airplane-128.png" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/science-technology-outline-24-px/24/Dish_antenna_parabolic_antenna_radar_satellite_dish_space-128.png" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-14" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#1D099E;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-15" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#1D099E;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-16" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#1D099E;" vertex="1" parent="1">
+          <mxGeometry x="430" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-17" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#1D099E;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-18" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#1D099E;" vertex="1" parent="1">
+          <mxGeometry x="610" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-19" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#BD0000;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-20" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#BD0000;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-21" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#BD0000;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-22" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#BD0000;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-23" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#BD0000;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340.91" width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-30" value="" style="group;fillColor=#EBEBEB;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="240" y="470" width="180" height="66.18000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-26" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#BD0000;flipH=1;fillColor=default;" vertex="1" parent="XFRNzDmu-OxDQ_ufA0FW-30">
+          <mxGeometry width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-27" value="Fala odbita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#EBEBEB;gradientColor=none;" vertex="1" parent="XFRNzDmu-OxDQ_ufA0FW-30">
+          <mxGeometry x="100" y="18.089999999999975" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-31" value="" style="group;fillColor=#EBEBEB;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="470" width="220" height="66.18000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-28" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeWidth=4;strokeColor=#1D099E;" vertex="1" parent="XFRNzDmu-OxDQ_ufA0FW-31">
+          <mxGeometry width="90" height="66.18" as="geometry" />
+        </mxCell>
+        <mxCell id="XFRNzDmu-OxDQ_ufA0FW-29" value="Fala wyemitowana" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XFRNzDmu-OxDQ_ufA0FW-31">
+          <mxGeometry x="100" y="18.089999999999975" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
